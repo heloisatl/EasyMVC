@@ -536,7 +536,7 @@ HTML;
     <div class="welcome-container">
         <h1>Bem-vindo!</h1>
         <p class="instruction-text">
-            <strong>Como usar:</strong> Selecione uma opção no menu acima para começar a gerenciar seu sistema!
+            <strong>Explore as opções de tabelas do banco de dados no menu acima para começar a manejar o sistema!</strong> 
         </p>
     </div>
 </body>
