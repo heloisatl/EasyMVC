@@ -534,7 +534,7 @@ HTML;
 </head>
 <body class="inicio-page">
     <div class="welcome-container">
-        <h1>Bem-vindo!</h1>
+        <h1>Easy MVC</h1>
         <p class="instruction-text">
             <strong>Explore as opções de tabelas do banco de dados no menu acima para começar a manejar o sistema!</strong> 
         </p>
