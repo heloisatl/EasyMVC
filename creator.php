@@ -29,7 +29,7 @@ class Creator
             $this->compactar();
             header("Location:index.php?msg=2");
         }
-    } //fimConsytruct
+    } //fimConstruct
     function criaDiretorios()
     {
 
