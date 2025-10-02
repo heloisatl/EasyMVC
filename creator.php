@@ -402,7 +402,7 @@ EOT;
 HTML;
             file_put_contents("sistema/view/{$nomeTabela}.php", $conteudo);
         }
-        //Listas
+       
         //Listas
         foreach ($this->tabelas as $tabela) {
             $nomeTabela = array_values((array)$tabela)[0];
